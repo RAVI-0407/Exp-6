@@ -3,29 +3,26 @@
 # AIM:
 
 To draw the UML diagram for Student Online Exam Registration System.
+
 # SRS (Procedure):
-1 Step 1 - Open StarUML and start a new project.
-2 Step 2 - Name the project based on the system (e.g., ATM, Library).
-3 Step 3 - Identify actors and use cases from the system requirements.
-4 Step 4 - Choose and draw diagrams (Use Case, Class, Sequence, etc.).
-5 Step 5 - Add elements using the toolbox and connect them properly.
-6 Step 6 - Label all components clearly and meaningfully.
-7 Step 7 - Save and export diagrams as images or PDF.
-List of Programs:
 
-i) Usecase Diagram
+## Step 1: Problem Identification
 
-ii)Class Diagram
+Manual exam registration causes errors, delays, and difficulty in managing student data. The system aims to automate online exam registration, fee payment, and admit card generation.    
 
-iii)Activity Diagram
+## Step 2: Requirement Analysis
 
-iv)Communication Diagram
+Users: Student, Admin, and Exam Coordinator.    
+Main Functions: Student login, exam registration, subject selection, fee payment, and admit card download.    
+Non-Functional Needs: Data security, reliability, user-friendly interface, and fast processing.
 
-v)Package Diagram
+## Step 3: System Design
 
-vi)Sequence Diagram
+Create UML diagrams: Use Case, Class, Activity, Sequence, Communication, and Package diagrams.    
+Design database tables for Students, Exams, Subjects, Payments, and Admit Cards.
 
-# DIAGRAMS:
+# UML DIAGRAMS:
+
 ## Usecase Diagram:
 
 <img width="997" height="903" alt="image" src="https://github.com/user-attachments/assets/6710f442-6347-4193-af06-54ef54deab0d" />
