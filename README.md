@@ -24,7 +24,7 @@ Design database tables for Students, Exams, Subjects, Payments, and Admit Cards.
 # UML DIAGRAMS:
 
 ## Usecase Diagram:
-
+ 
 <img width="997" height="903" alt="image" src="https://github.com/user-attachments/assets/6710f442-6347-4193-af06-54ef54deab0d" />
 
 ## Class Diagram:
